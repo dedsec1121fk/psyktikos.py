@@ -1,3 +1,4 @@
+#!/data/data/com.termux/files/usr/bin/python
 # -*- coding: utf-8 -*-
 
 def show_menu():
