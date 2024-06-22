@@ -1,5 +1,3 @@
-Let me explain how to use this program step-by-step:
-
 ### Setup
 
 1. **Installation**:
